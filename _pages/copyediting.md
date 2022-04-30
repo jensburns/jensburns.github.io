@@ -42,12 +42,15 @@ As an American based in the UK, I can effortlessly work in both American and Bri
 
 So if you need to rework your communications written in American English for a British audience, or vice versa, I can help. I also have experience editing copy in Canadian English.
 
+## Interested?
+[Get in touch to talk through your next project.](/contact)
+
 ## Some kind words
 
 > ‘Jennifer is a reliable and conscientious editor and edits to a very high standard. In her role with WikiJob, she edits up to 10 articles per week and follows a lengthy style guide. She is a pleasure to work with and always willing to go the extra mile to make the work she edits the best it can be. I hope to continue to work with Jennifer for a long time to come; she is a valued member of our publishing team.’
-
-*Georgia King, Editor, WikiJob*
+>
+> <cite>Georgia King, Editor, WikiJob</cite>
 
 >‘Jen is super-efficient and easy to work with. She fully understands our core business and sector and is able to take that knowledge and understanding to turn it into thought-provoking and engaging content.’
-
-*Dawn Bratcher, Senior Marketing Manager, Skills for Health*
+>
+> <cite>Dawn Bratcher, Senior Marketing Manager, Skills for Health</cite>

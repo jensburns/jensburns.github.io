@@ -40,15 +40,15 @@ If the content is already in your CMS, then we can talk about the best way of ge
 
 The whole process can take anywhere from two days to two weeks, depending on how big your site is.
 
+## Interested?
+[Get in touch to talk through your next project.](/contact)
+
 ## Some kind words
 > ‘Jen is a brilliantly talented proofreader and digital content expert. She's diligent, a great communicator and always happy to work with others to get the best outcome. She is one of the sharpest proofreaders I've had the pleasure to work with and she's got a real flair for writing for different audiences. She's also got a great sense of humour which is essential when you're working on urgent deadlines! I'd recommend Jen to anyone looking for a talented and creative professional.’
+>
+> <cite>Jennifer Taylor, Cardiff University</cite>
 
-*Jennifer Taylor, Cardiff University*
-​
-> ‘As a web editor, Jen edited content for the University's website, making sure it adhered to accessibility, house style and SEO standards. Jen was a respected and hard working member of the team.​’
-
-​*Matt Owen, Digital Marketing Manager, UWE Bristol*
 
 > ‘Jen is extremely motivated – a real go-getter – which allowed her to hit the ground running on a very challenging project. Her enthusiasm is infectious and my only wish is that we'd got her on the team sooner! It was a pleasure working with her.’
-
-*Gail Davidson, Web Writing Manager, National Strategies*
+>
+> <cite>Gail Davidson, Web Writing Manager, National Strategies</cite>
