@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Website Editing and Proofreading
+title: Website editing and proofreading
 permalink: /webediting/
 image: '/images/05.jpg'
 ---

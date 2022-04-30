@@ -16,7 +16,7 @@ menu__settings:
       url: '/about/'
     - title: 'Copyediting'
       url: '/copyediting/'
-    - title: 'Website Editing'
+    - title: 'Website editing and proofreading'
       url: '/webediting/'
     - title: 'Writing'
       url: '/writing/'
