@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/copyediting/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/elements/</loc>
 </url>
 <url>
@@ -14,5 +17,11 @@
 </url>
 <url>
 <loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/webediting/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/writing/</loc>
 </url>
 </urlset>

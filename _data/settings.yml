@@ -14,10 +14,14 @@ menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
+    - title: 'Copyediting'
+      url: '/copyediting/'
+    - title: 'Website Editing'
+      url: '/webediting/'
+    - title: 'Writing'
+      url: '/writing/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
 
 
 #-------------------------------
@@ -93,7 +97,7 @@ social:
 # Contact Settings
 contact:
   email: jen@jenburns.com # Add your email for contact form
-  description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
+  description: Get in touch to talk about your next project. If you’re local to Cardiff, we could even meet for a coffee and a chat.  # Add a description of your form.
 
 # NOTE
 # Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.
