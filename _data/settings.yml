@@ -23,9 +23,8 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jen. <br />I’m a writer, editor and proofreader based in Cardiff.
-  hero__description: My work has appeared in Slate, Stylist, McSweeney's Internet Tendency, the Miami Herald and the Guardian Cardiff blog, among others.
-
+  hero__title: Hello, my name’s Jen. <br />I’m a freelance copyeditor, proofreader and writer based in Cardiff.
+  hero__description: For more than 15 years, I’ve loved the challenge of making a piece of writing the very best it can be.
 
 #-------------------------------
 # Portfolio Settings
@@ -93,7 +92,7 @@ social:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contact form
+  email: jen@jenburns.com # Add your email for contact form
   description: Clancy comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form.
 
 # NOTE
