@@ -3,7 +3,7 @@
 title: Jen Burns
 logo: # You can add own logo. For example '/images/logo.png'.
 author: Jen Burns
-description: Jen Burns is a writer, editor and proofreader based in Cardiff.
+description: Copyeditor, proofreader and writer based in Cardiff.
 
 
 #-------------------------------
@@ -27,7 +27,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hello, my name’s Jen. <br />I’m a freelance copyeditor, proofreader and writer based in Cardiff.
+  hero__title: Hello, my name’s Jen. <br />I’m a copyeditor, proofreader and writer based in Cardiff.
   hero__description: For more than 15 years, I’ve loved the challenge of making a piece of writing the very best it can be.
 
 #-------------------------------
