@@ -7,7 +7,9 @@ A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree
 
 After I moved to the United Kingdom in 2005, my work expanded to include editing and writing communications for the private and public sectors – and everything in between. I’ve worked with Cardiff University, Middlesex University, UWE Bristol, Office for National Statistics, National Strategies, Skills for Health and WikiJob, among others.
 
-> Being a writer makes me a better editor and proofreader – it means I understand the importance of revision and always respect the writer’s voice when I’m editing. [My articles, short stories and humour pieces](/writing)  have appeared in online and print publications both in the US and UK, including Slate and Stylist.
+> Being a writer makes me a better editor and proofreader – it means I understand the importance of revision and respect the writer’s voice when I’m editing.
+
+__[My articles, short stories and humour pieces](/writing)__ have appeared in online and print publications both in the US and UK, including Slate and Stylist
 
 Beyond editing and proofreading, I also bring project management skills and the flexibility to work independently or as part of a team. I'm well-versed in using content management systems (WordPress, Squiz, Tridion) and Markdown too.  
 

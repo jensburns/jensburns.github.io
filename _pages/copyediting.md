@@ -4,46 +4,47 @@ title: Copyediting
 permalink: /copyediting/
 image: '/images/gallery-03.jpg'
 ---
-I’ve worked with a wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and website content.
+I’ve worked with a wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and __[website text](/contact)__.
 
 Whether the project calls for a light edit or a heavier one, I’m all about making your words as effective, consistent and error-free as possible – while keeping your voice and style of writing intact. It helps to build trust with your readers, while establishing your expertise.
 
 ## Copyediting service
-
 I’ll review your text and make sure:
 
-
-- it’s free from grammar, punctuation and spelling errors
+- it’s free from punctuation, grammar and spelling errors
 - punctuation, capitalisation, hyphenation and spelling are consistent throughout
 - there’s no unnecessary repetition
-- the language, tone of voice and tense are consistent
+- the tense and tone are consistent
 - it’s the appropriate writing style for your audience
 - there aren’t any contradictions or other inconsistencies
-- your intended message is communicated as clearly as possible  
+- your intended message is communicated as clearly as possible
+- the text aligns with your style guide (if you have one)  
 
-I can also be on the lookout for any fact errors, if need be.
+I can also be on the lookout for any fact errors, but you'd just need to let me know before the work starts.
 
-If your writing has been translated into English using Google Translate or DeepL, and you want a second pair of eyes on it
-to make it sound less robotic, I can help with that too.
+If your writing has been translated into English (by a linguist or via Google Translate or DeepL), and you want a second pair of eyes on it, I can help with that too.
+
+## Don’t have a style guide?
+It's never a problem. I'll give you a style sheet, which outlines all the decisions I made as I was going through your text (like using 11:00 p.m. instead of 23:00, for example).
+
+Using a style sheet helps to make a piece of writing consistent. And you or your organisation can use it down the line if you ever wanted to create a style guide of your own.
 
 ## How it works
-
-Usually the copyediting process takes place just prior to proofreading, which is the final check before a piece of writing is set free.
+Usually the copyediting process takes place prior to proofreading, which is the final check before a piece of writing is set free.
 
 (Depending on the project, my help can be enlisted fairly early on in the process or just before a piece is signed off. I don’t have any hard or fast rules about it, and I’m happy to work with you to fit your, or your organisation’s, workflow.)
 
 We’ll have a chat about how I can help, your writing’s intentions and your audience, and if I'm a good fit for your project, we’ll go from there.
 
-I normally edit in Google Docs or Word, using track changes and comments to make suggestions or ask questions. I can also edit straight into PowerPoint presentations or content management systems (CMS), if that’s easier for you.
+I normally edit in Google Docs or Microsoft Word, using track changes and comments to make suggestions or ask questions. I can also edit straight into PowerPoint presentations or content management systems (CMS), if that’s easier for you.
 
 ## Using British, American or Canadian English
-
 As an American based in the UK, I can effortlessly work in both American and British English.
 
 So if you need to rework your communications written in American English for a British audience, or vice versa, I can help. I also have experience editing copy in Canadian English.
 
-## Interested?
-[Get in touch to talk through your next project.](/contact)
+## Want to work with me?
+__Get in touch to talk through your next project](/contact)__.
 
 ## Some kind words
 
