@@ -4,7 +4,7 @@ title: Copyediting
 permalink: /copyediting/
 image: '/images/gallery-03.jpg'
 ---
-I’ve worked with a wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and __[website text](/contact)__.
+I’ve worked with a wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and [website text](/contact).
 
 Whether the project calls for a light edit or a heavier one, I’m all about making your words as effective, consistent and error-free as possible – while keeping your voice and style of writing intact. It helps to build trust with your readers, while establishing your expertise.
 
@@ -44,7 +44,7 @@ As an American based in the UK, I can effortlessly work in both American and Bri
 So if you need to rework your communications written in American English for a British audience, or vice versa, I can help. I also have experience editing copy in Canadian English.
 
 ## Want to work with me?
-__Get in touch to talk through your next project](/contact)__.
+Get in touch to talk through your next project](/contact).
 
 ## Some kind words
 

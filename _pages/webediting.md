@@ -48,7 +48,7 @@ If it's a proofreading project, then I'd normally review it in a browser. I'll k
 But I'm flexible – if none of these work for you, then we can discuss other options before the project starts.
 
 ## Want to work with me?
-__[Get in touch to talk through your next project)/contact)__.
+[Get in touch to talk through your next project](/contact).
 
 ## Some kind words
 > ‘Jen is a brilliantly talented proofreader and digital content expert. She's diligent, a great communicator and always happy to work with others to get the best outcome. She is one of the sharpest proofreaders I've had the pleasure to work with and she's got a real flair for writing for different audiences. She's also got a great sense of humour which is essential when you're working on urgent deadlines! I'd recommend Jen to anyone looking for a talented and creative professional.’
