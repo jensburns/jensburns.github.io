@@ -8,7 +8,7 @@ I can edit your website text or proofread your site once it's built, so you can 
 
 Consistency is crucial to establishing trust with your site’s visitors. If your website's content adheres to a set of writing rules and is as error-free as possible, then you have a much better chance of really connecting with your audience. Don’t let a bunch of typos get in the way.
 
-With more than a decade of experience working in digital communications, I know what to look out for.
+With 15 years' experience working in digital communications, I know what to look out for.
 
 ## Editing your website's text  
 I’ll review your content and:

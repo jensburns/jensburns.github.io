@@ -10,7 +10,7 @@ I’m an editor and proofreader, but I love writing too. Here’s a selection of
 My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 
 ### Slate
-[Chasing Chanel: Why I keep searching for the perfect handbag that I’ll never actually buy.](https://slate.com/human-interest/2021/03/chanel-handbag-rabbit-hole.html)
+[Chasing Chanel: Why I keep searching for the perfect handbag that I’ll never actually buy](https://slate.com/human-interest/2021/03/chanel-handbag-rabbit-hole.html)
 
 ### Stylist
 [Yoga and skin health: is hot yoga ruining your skin?](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)  
