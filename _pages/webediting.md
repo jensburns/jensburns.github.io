@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Website editing and proofreading
-permalink: /webediting/
+permalink: /website-editing-and-proofreading/
 image: '/images/05.jpg'
 ---
 I can edit your website text or proofread your site once it's built, so you can be sure your messaging is getting through to your visitors in a clear, accurate and consistent way.

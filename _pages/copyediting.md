@@ -8,7 +8,7 @@ Whether your project calls for a light edit or a heavier one, I’m all about ma
 
 It all helps to build trust with your reader and establish you as an expert.
 
-For more than 15 years, I’ve edited wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and [website content](/contact).
+For more than 15 years, I’ve edited wide selection of text, including articles, blog posts, policies, newsletters, courses, reports, prospectuses, presentations and [website content](/website-editing-and-proofreading).
 
 [I'm a writer](/writing), too. So I know how crucial the revision process is, and it means I always respect the writer's voice when I'm editing. (Just like I expect other editors to do for my work!)
 
