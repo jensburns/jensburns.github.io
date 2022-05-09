@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree in journalism from the University of Florida.
 ---
 A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree in journalism from the University of Florida.
 
