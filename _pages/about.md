@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-description: A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree in journalism from the University of Florida.
+description: For more than 15 years, I've edited and proofread all kinds of writing, from website text, reports and articles to courses, policies and newsletters.
 ---
 A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree in journalism from the University of Florida.
 

@@ -3,6 +3,7 @@ layout: page
 title: Website editing and proofreading
 permalink: /website-editing-and-proofreading/
 image: '/images/05.jpg'
+description: Get your website text as consistent, clear and error-free as possible with my editing and proofreading services.    
 ---
 I can edit your website text or proofread your site once it's built, so you can be sure your messaging is getting through to your visitors in a clear, accurate and consistent way.
 

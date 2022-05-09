@@ -3,6 +3,7 @@ layout: page
 title: Copyediting
 permalink: /copyediting/
 image: '/images/gallery-03.jpg'
+description: Make your writing as effective, consistent and error-free as possible with my professional copyediting service.
 ---
 Whether your project calls for a light edit or a heavier one, I’m all about making your words as effective, consistent and error-free as possible – while keeping your voice and style of writing intact.
 

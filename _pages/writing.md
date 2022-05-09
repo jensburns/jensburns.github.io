@@ -3,6 +3,7 @@ layout: page
 title: Writing
 permalink: /writing/
 image: '/images/gallery-07.jpg'
+description: My work has appeared in Slate, Stylist, McSweeney's Internet Tendency, Open Pen, among others. 
 ---
 I’m an editor and proofreader, but I love writing too. Here’s a selection of some of my work:
 
