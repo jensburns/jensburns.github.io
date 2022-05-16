@@ -38,7 +38,7 @@ Using a style sheet helps to make a piece of writing consistent. And you or your
 ## How it works
 Usually the copyediting process takes place prior to proofreading, which is the final check before a piece of writing is set free.
 
-Depending on the project, my help can be enlisted fairly early on in the process or just before a piece is signed off (for more of a 'proof-editing'). I don’t have any hard or fast rules about it, and I’m happy to work with you to fit your, or your organisation’s, workflow.
+Depending on the project, my help can be enlisted fairly early on in the process or just before a piece is signed off (for more of a 'proof-editing'). I don’t have any hard and fast rules about it, and I’m happy to work with you to fit your, or your organisation’s, workflow.
 
 I normally edit in Google Docs or Microsoft Word, using track changes and comments to make suggestions or ask questions. I can also edit straight into PowerPoint presentations or content management systems (CMS), if that’s easier for you.
 
