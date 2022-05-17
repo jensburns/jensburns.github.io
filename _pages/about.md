@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 description: For more than 15 years, I've edited and proofread all kinds of writing, from website text, reports and articles to courses, policies and newsletters.
 ---
-A Miami Herald columnist at 16, I went on to graduate with a bachelor’s degree in journalism from the University of Florida.
+A Miami Herald columnist at 16, I went on to graduate with a Bachelor’s Degree in Journalism from the University of Florida.
 
 After I moved to the United Kingdom in 2005, my work expanded to include editing and writing communications for the private and public sectors – and everything in between. I’ve worked with Cardiff University, Middlesex University, UWE Bristol, Office for National Statistics, National Strategies, Skills for Health and WikiJob, among others.
 
