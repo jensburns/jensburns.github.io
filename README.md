@@ -58,6 +58,7 @@ I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/de
 ### Documentation
 
 Before using the Clancy theme, please read the attached documentation.
+ALWAYS EDIT MD FILES, NOT HTML FILES
 
 * * *
 
