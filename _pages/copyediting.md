@@ -56,12 +56,9 @@ So if you need to rework your communications written in American English for a B
 >
 ><cite>Dr Tom Allbeson, Senior Lecturer in Media History, Cardiff University</cite>
 
->'I worked with Jen as a colleague for a number of years – as soon as I found out she was going freelance, I couldn’t wait to work with her again.
 
->Her writing is effortlessly engaging. Through a combination of plain English and great storytelling, she makes things easy for your readers and can hold their attention to any subject matter. She has the sharpest eye for detail and can switch between style guides like changing hats.
-
->To go with her talent, she’s great to work with. She’s super reliable, communicates with clarity and makes things simple for you. The only reason I wouldn’t recommend her is because then she’d be less available for me. That and she refrigerates chocolate.'
-
+>Her writing is effortlessly engaging. Through a combination of plain English and great storytelling, she makes things easy for your readers and can hold their attention to any subject matter. She has the sharpest eye for detail and can switch between style guides like changing hats. To go with her talent, she’s great to work with. She’s super reliable, communicates with clarity and makes things simple for you. The only reason I wouldn’t recommend her is because then she’d be less available for me. That and she refrigerates chocolate.'
+>
 ><cite>Alex Peel, Head of Marketing, Blue Stag</cite>
 
 >‘Jennifer is a reliable and conscientious editor and edits to a very high standard. In her role with WikiJob, she edits up to 10 articles per week and follows a lengthy style guide. She is a pleasure to work with and always willing to go the extra mile to make the work she edits the best it can be. I hope to continue to work with Jennifer for a long time to come; she is a valued member of our publishing team.’
