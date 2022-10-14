@@ -8,6 +8,8 @@ A Miami Herald columnist at 16, I went on to graduate with a Bachelor’s Degree
 
 After I moved to the United Kingdom in 2005, my work expanded to include editing and writing communications for the private and public sectors – and everything in between. I’ve worked with Cardiff University, Middlesex University, UWE Bristol, Office for National Statistics, National Strategies, Skills for Health and WikiJob, among others.
 
+I'm also an Intermediate Member of the [Chartered Institute of Editing and Proofreading](https://www.ciep.uk/). 
+
 > Being a writer makes me a better editor and proofreader – it means I understand the importance of revision and respect the writer’s voice when I’m editing.
 
 [My articles, short stories and humour pieces](/writing) have appeared in online and print publications both in the US and UK, including Slate and Stylist.
