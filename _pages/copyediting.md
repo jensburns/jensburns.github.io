@@ -52,6 +52,10 @@ So if you need to rework your communications written in American English for a B
 
 ## Some kind words
 
+>'I commissioned Jen to re-write some key pages on our website and have been so impressed with the quality of her writing. She understood the brief well, produced clear, engaging, impactful writing and was a pleasure to work with. I do not hesitate in recommending Jen and will definitely commission her again.'
+>
+><cite>Yen Curran, Head of Digital and Brand, Royal Welsh College of Music & Drama</cite>
+
 >'Jen helped me out enormously with a book manuscript I was working on. As well as proofreading, it needed reducing to meet a pretty demanding word count. Jen’s suggestions were brilliant, helping cut it down to size without sacrificing essential content or undermining the argument. It was a stronger piece of writing thanks to her input. Moreover, she completed the work to a very tight timescale! Meticulous, professional and excellent value – I’d recommend Jen’s copyediting work to anyone.'
 >
 ><cite>Dr Tom Allbeson, Senior Lecturer in Media History, Cardiff University</cite>
