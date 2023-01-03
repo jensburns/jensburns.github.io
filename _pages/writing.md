@@ -3,7 +3,7 @@ layout: page
 title: Writing
 permalink: /writing/
 image: '/images/gallery-07.jpg'
-description: My work has appeared in Slate, Stylist, McSweeney's Internet Tendency, Open Pen, among others. 
+description: My work has appeared in Slate, Stylist, McSweeney's Internet Tendency, Open Pen, among others.
 ---
 I’m an editor and proofreader, but I love writing too. Here’s a selection of some of my work:
 
@@ -15,7 +15,7 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 
 ### Stylist
 [Yoga and skin health: is hot yoga ruining your skin?](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)  
-[Stair running: “I’ve never been as fit as when I used to run up the stairs in my office”](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)
+[Stair running: “I’ve never been as fit as when I used to run up the stairs in my office”](https://www.stylist.co.uk/fitness-health/workouts/stair-running-free-killer-cardio-workout/563155)
 
 ### Timothy McSweeney's Internet Tendency
 [An Open Letter to My Beloved Woolly Armpits](http://www.mcsweeneys.net/articles/an-open-letter-to-my-beloved-woolly-armpits)  
