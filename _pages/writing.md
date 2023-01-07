@@ -13,6 +13,9 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 ### Slate
 [Chasing Chanel: Why I keep searching for the perfect handbag that I’ll never actually buy](https://slate.com/human-interest/2021/03/chanel-handbag-rabbit-hole.html)
 
+### Reader's Digest UK
+[Is the pill safe for people approaching menopause?](https://www.readersdigest.co.uk/health/menopause/is-the-pill-safe-for-people-approaching-menopause)
+
 ### Stylist
 [Yoga and skin health: is hot yoga ruining your skin?](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)  
 [Stair running: “I’ve never been as fit as when I used to run up the stairs in my office”](https://www.stylist.co.uk/fitness-health/workouts/stair-running-free-killer-cardio-workout/563155)
