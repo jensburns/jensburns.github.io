@@ -28,7 +28,7 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 
 ### Guardian Cardiff
 [Spotlight: The Junket Club](http://www.theguardian.com/cardiff/2011/apr/18/cardiff-the-junket-club)
- 
+
 [Spotlight: Vintage Pretty Cardiff](http://www.theguardian.com/cardiff/2011/feb/21/vintage-pretty-cardiff-fair-markets)
 
 ### Emrys Journal Online
@@ -37,7 +37,7 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 ## Short stories
 
 ### Open Pen
-[Short story, ‘The Grass Needs Watering’, featured in issue 27](https://www.openpen.co.uk/twenty-seven/)
+Short story, ‘The Grass Needs Watering’, featured in issue 27
 
 ### The Timberline Review
 Short story, 'Muzzle Punch', featured in issue 4.
