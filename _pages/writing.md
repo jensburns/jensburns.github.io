@@ -18,14 +18,17 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 
 ### Stylist
 [Yoga and skin health: is hot yoga ruining your skin?](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)  
+
 [Stair running: “I’ve never been as fit as when I used to run up the stairs in my office”](https://www.stylist.co.uk/fitness-health/workouts/stair-running-free-killer-cardio-workout/563155)
 
 ### Timothy McSweeney's Internet Tendency
 [An Open Letter to My Beloved Woolly Armpits](http://www.mcsweeneys.net/articles/an-open-letter-to-my-beloved-woolly-armpits)  
+
 [What Your Favorite 90s Fashion and Beauty Trend Says About You](http://www.mcsweeneys.net/articles/what-your-favorite-90s-fashion-and-beauty-trend-says-about-you)
 
 ### Guardian Cardiff
-[Spotlight: The Junket Club](http://www.theguardian.com/cardiff/2011/apr/18/cardiff-the-junket-club)  
+[Spotlight: The Junket Club](http://www.theguardian.com/cardiff/2011/apr/18/cardiff-the-junket-club)
+ 
 [Spotlight: Vintage Pretty Cardiff](http://www.theguardian.com/cardiff/2011/feb/21/vintage-pretty-cardiff-fair-markets)
 
 ### Emrys Journal Online
