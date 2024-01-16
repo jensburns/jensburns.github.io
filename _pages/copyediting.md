@@ -25,7 +25,7 @@ I’ll review your text and check:
 - your intended message is communicated as clearly as possible
 - the text aligns with your style guide (if you have one)  
 
-If you also need me to carry out any fact checking, just let me know before the work starts.
+If you also need me to carry out any light fact checking, just let me know before the work starts.
 
 ### Reviewing translated content
 If your writing has been translated into English (by a linguist or via Google Translate or DeepL), and you want a second pair of eyes on it, I can help with that too.
