@@ -85,7 +85,6 @@ portfolio:
 # Footer Settings
 social:
 - {icon: "ion-logo-twitter", color: "#e4405f", label: Twitter, link: "https://twitter.com/jensieburns"}
-- {icon: "ion-logo-instagram", color: "#e4405f", label: Instagram, link: "https://www.instagram.com/jensieburns/"}
 - {icon: "ion-logo-linkedin", color: "#e4405f", label: LinkedIn, link: "https://www.linkedin.com/in/jen-burns-8bb330214"}
 
 
