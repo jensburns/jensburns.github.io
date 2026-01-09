@@ -16,6 +16,9 @@ My writing has appeared in The Miami Herald, Nerve, Buzz Magazine, as well as:
 ### Reader's Digest UK
 Is the pill safe for people approaching menopause?
 
+### Business Insider
+[I'm an American who's lived in the UK for 20 years. My lovely small city should be on more travelers' radars](https://www.businessinsider.com/why-best-place-in-uk-to-visit-cardiff-recommendations-local-2025-11)
+
 ### Stylist
 [Yoga and skin health: is hot yoga ruining your skin?](https://www.stylist.co.uk/fitness-health/wellbeing/hot-yoga-ruining-skin/630077)  
 
