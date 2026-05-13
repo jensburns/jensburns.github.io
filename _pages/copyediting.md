@@ -60,15 +60,14 @@ So if you need to rework your communications written in American English for a B
 >
 ><cite>Dr Tom Allbeson, Senior Lecturer in Media History, Cardiff University</cite>
 
+>‘Jen’s expertise transformed our copy into compelling and creative marketing campaigns. She understood our brand voice and target demographic, seamlessly incorporating these elements into the copy. Jen’s support has significantly boosted the effectiveness of our campaigns and engagement from our customer base. We cannot recommend Jen enough to anyone looking to improve their marketing material and inspire their customers.
+>
+> <cite>Ceri Harry, CRM Marketing Communications Manager, Cardiff Metropolitan University</cite>
 
 >Her writing is effortlessly engaging. Through a combination of plain English and great storytelling, she makes things easy for your readers and can hold their attention to any subject matter. She has the sharpest eye for detail and can switch between style guides like changing hats. To go with her talent, she’s great to work with. She’s super reliable, communicates with clarity and makes things simple for you. The only reason I wouldn’t recommend her is because then she’d be less available for me. That and she refrigerates chocolate.'
 >
-><cite>Alex Peel, Head of Marketing, Blue Stag</cite>
+><cite>Alex Peel, Head of Marketing, Everglow</cite>
 
 >‘Jennifer is a reliable and conscientious editor and edits to a very high standard. In her role with WikiJob, she edits up to 10 articles per week and follows a lengthy style guide. She is a pleasure to work with and always willing to go the extra mile to make the work she edits the best it can be. I hope to continue to work with Jennifer for a long time to come; she is a valued member of our publishing team.’
 >
 > <cite>Georgia King, Editor, WikiJob</cite>
-
->‘Jen is super-efficient and easy to work with. She fully understands our core business and sector and is able to take that knowledge and understanding to turn it into thought-provoking and engaging content.’
->
-> <cite>Dawn Bratcher, Senior Marketing Manager, Skills for Health</cite>
