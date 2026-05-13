@@ -60,7 +60,7 @@ So if you need to rework your communications written in American English for a B
 >
 ><cite>Dr Tom Allbeson, Senior Lecturer in Media History, Cardiff University</cite>
 
->‘Jen’s expertise transformed our copy into compelling and creative marketing campaigns. She understood our brand voice and target demographic, seamlessly incorporating these elements into the copy. Jen’s support has significantly boosted the effectiveness of our campaigns and engagement from our customer base. We cannot recommend Jen enough to anyone looking to improve their marketing material and inspire their customers.
+>‘Jen’s expertise transformed our copy into compelling and creative marketing campaigns. She understood our brand voice and target demographic, seamlessly incorporating these elements into the copy. Jen’s support has significantly boosted the effectiveness of our campaigns and engagement from our customer base. We cannot recommend Jen enough to anyone looking to improve their marketing material and inspire their customers.'
 >
 > <cite>Ceri Harry, CRM Marketing Communications Manager, Cardiff Metropolitan University</cite>
 
